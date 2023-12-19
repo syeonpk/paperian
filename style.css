@@ -1,0 +1,14 @@
+header{
+    background-image: url(images/annie-spratt-_dAnK9GJvdY-unsplash.jpg);
+    background-size:  cover;
+    background-position: center top;
+    background-attachment: fixed;
+    color: #E0D6C4;
+}
+
+body{
+    background-color: #E0D6C4;
+    color: #6C6258;
+}
+
+.display-3 {color: #6C6258;}
